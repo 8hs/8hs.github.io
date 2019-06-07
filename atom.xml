@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eight-hour working day</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://8hs.net/"/>
+  <updated>2019-06-07T07:56:22.408Z</updated>
+  <id>http://8hs.net/</id>
+  
+  <author>
+    <name>流浪的竹笋</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年底日本关西的第一次旅行</title>
+    <link href="http://8hs.net/2019/01/04/Japan-Osaka/"/>
+    <id>http://8hs.net/2019/01/04/Japan-Osaka/</id>
+    <published>2019-01-04T18:51:49.000Z</published>
+    <updated>2019-06-07T07:56:22.408Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;行程单&quot;&gt;&lt;a href=&quot;#行程单&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Japan" scheme="http://8hs.net/tags/Japan/"/>
+    
+      <category term="Osaka" scheme="http://8hs.net/tags/Osaka/"/>
+    
+      <category term="Nagoya" scheme="http://8hs.net/tags/Nagoya/"/>
+    
+      <category term="Tokyo" scheme="http://8hs.net/tags/Tokyo/"/>
+    
+      <category term="Kyoto" scheme="http://8hs.net/tags/Kyoto/"/>
+    
+      <category term="Nara" scheme="http://8hs.net/tags/Nara/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英国伦敦和法国尼斯旅行 2018年9月</title>
+    <link href="http://8hs.net/2018/09/26/London-Nice/"/>
+    <id>http://8hs.net/2018/09/26/London-Nice/</id>
+    <published>2018-09-26T18:49:33.000Z</published>
+    <updated>2019-06-07T23:17:42.662Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;行程单&quot;&gt;&lt;a href=&quot;#行程单&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Travel" scheme="http://8hs.net/categories/Travel/"/>
+    
+    
+      <category term="London" scheme="http://8hs.net/tags/London/"/>
+    
+      <category term="Nice" scheme="http://8hs.net/tags/Nice/"/>
+    
+  </entry>
+  
+</feed>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://8hs.net/"/>
-  <updated>2019-06-08T22:16:43.453Z</updated>
+  <updated>2020-05-11T18:53:21.251Z</updated>
   <id>http://8hs.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://8hs.net/2019/01/04/Japan-Osaka/"/>
     <id>http://8hs.net/2019/01/04/Japan-Osaka/</id>
     <published>2019-01-04T18:51:49.000Z</published>
-    <updated>2019-06-08T22:16:43.453Z</updated>
+    <updated>2020-05-11T18:53:21.251Z</updated>
     
     <summary type="html">
     
@@ -72,6 +72,8 @@
 &lt;p&gt;东京回美国的票也是提前半年就买好了，新年的第一二天的JAL里程票非常的hot，还好我抢到了2号的HND-SFO的票，如果是JAL自己是25K点单程，我用的AA 37.5K点换的，因为AA点很难用出去，加上新年的票，也值了。JAL好像是330天前开始放里程票&lt;/p&gt;
     
     </summary>
+    
+      <category term="Travel" scheme="http://8hs.net/categories/Travel/"/>
     
     
       <category term="Japan" scheme="http://8hs.net/tags/Japan/"/>
